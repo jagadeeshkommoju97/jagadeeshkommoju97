@@ -33,7 +33,7 @@ I'm **[Jagadeesh Kommoju]**, a hacker & Security Researcher. I'm on my way to be
 -**Reverse Engineering**, **Malware Analysis**
 - Improving knowledge in **Website Vulnerabilities**
 - I’m currently learning **everything** 
-- Reach me out at **[Mr Hacker](https://cehjagadeesh.ccbp.tech/)**
+- Reach me out at **[Jagadeesh Kommoju](https://www.linkedin.com/in/jagadeesh-kommoju/)**
 
 </details>
 <br>
